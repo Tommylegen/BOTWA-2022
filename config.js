@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OwnerRaja !Jangan chat owner kl gk perlu!'
+global.nameowner = '⫹⫺ Creator Bot ~ [ Jgn Chat Klo Gk Penting ]'
 global.numberowner = '6289505054287'
 global.instagram = 'https://instagram.com/Tommylegends1'
 global.github = 'https://github.com/Tommylegen'
@@ -25,7 +25,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© RajaXd'
 global.watermark = wm
-global.wm2 = '© 2022-RajaXd'
+global.wm2 = '© 2022-RajaDev'
 global.wm3 = '© RajaXd'
 global.htki = '––––––『' 
 global.htka = '』––––––'
