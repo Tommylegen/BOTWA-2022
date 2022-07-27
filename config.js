@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6282221792667'] 
+global.owner = ['6289505054287'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OwnerTio !Jangan chat owner kl gk perlu!'
-global.numberowner = '6282221792667'
-global.instagram = 'https://instagram.com/prm2.0'
-global.github = 'https://github.com/BOTCAHX'
-global.dana = '082221792667'
-global.pulsa = '082221792667'
+global.nameowner = 'OwnerRaja !Jangan chat owner kl gk perlu!'
+global.numberowner = '6289505054287'
+global.instagram = 'https://instagram.com/Tommylegends1'
+global.github = 'https://github.com/Tommylegen'
+global.dana = '089505054287'
+global.pulsa = '0895410735736'
 global.gopay = 'Coming soon'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'BOTCAHX'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'DEPUUxBOD'
+global.gc = 'https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A'
+global.web = 'https://wa.me/+6289505054287' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/ab93ce0bc86282c993ad2.png' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© TioXd'
+global.wm = '© RajaXd'
 global.watermark = wm
-global.wm2 = '© 2022-TioXd'
-global.wm3 = '© TioXd'
+global.wm2 = '© 2022-RajaXd'
+global.wm3 = '© RajaXd'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nBy TioXd'
+global.author = 'Bot WhatsApp\nBy RajaXd'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
