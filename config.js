@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '⫹⫺ Creator Bot ~ [ Jgn Chat Klo Gk Penting ]'
+global.nameowner = '⫹⫺ Creator Bot ~ 『 Jgn Chat Klo Gk Penting 』'
 global.numberowner = '6289505054287'
 global.instagram = 'https://instagram.com/Tommylegends1'
 global.github = 'https://github.com/Tommylegen'
@@ -13,7 +13,7 @@ global.pulsa = '0895410735736'
 global.gopay = 'Coming soon'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'DEPUUxBOD'
+global.namebot = 'DEPUU BOD'
 global.gc = 'https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A'
 global.web = 'https://wa.me/+6289505054287' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
