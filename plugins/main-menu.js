@@ -316,115 +316,115 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                 "title": "━━━━━━━━━[ MENU TAMBAHAN ]━━━━━━━━━"
               }, {
                 "rows": [{
-                  "title": `[01] SEMUA PERINTAH`,
+                  "title": `[🌆] SEMUA PERINTAH`,
                   "description": "Menampilkan Menu All",
                   "rowId": '.? all'
                   }, {
-                  "title": "[02] ABSEN & VOTING",
+                  "title": "[📝] ABSEN & VOTING",
                   "description": "Menampilkan Menu Absen",
                   "rowId": `${_p}? absen`
                 }, {
-                  "title": "[03] ANIME",
+                  "title": "[⛩️] ANIME",
                   "description": "Menampilkan Menu Anime",
                   "rowId": `${_p}? anime`
                 }, {
-                  "title": "[04] STICKER & CONVERTER",
+                  "title": "[🎇] STICKER & CONVERTER",
                   "description": "Menampilkan Menu Sticker",
                   "rowId": `${_p}? sticker`
                 }, {
-                  "title": "[05] DOWNLOADER",
+                  "title": "[📺] DOWNLOADER",
                   "description": "Menampilkan Menu Downloader",
                   "rowId": `${_p}? downloader`
                 }, {
-                  "title": "[06] EXP & LIMIT",
+                  "title": "[📈] EXP & LIMIT",
                   "description": "Menampilkan Menu Exp",
                   "rowId": `${_p}? xp`
                 }, {
-                  "title": "[07] FUN",
+                  "title": "[🎇] FUN",
                   "description": "Menampilkan Menu Fun",
                   "rowId": `${_p}? fun`
                 }, {
-                  "title": "[08] GAME",
+                  "title": "[🎮] GAME",
                   "description": "Menampilkan Menu Game",
                   "rowId": `${_p}? game`
                 }, {
-                  "title": "[09] GITHUB",
+                  "title": "[👤] GITHUB",
                   "description": "Menampilkan Menu Github",
                   "rowId": `${_p}? github`
                 }, {
-                  "title": "[10] GROUP",
+                  "title": "[🏫] GROUP",
                   "description": "Menampilkan Menu Group",
                   "rowId": `${_p}? group`
                 }, {
-                  "title": "[11] IMAGE",
+                  "title": "[🖼️] IMAGE",
                   "description": "Menampilkan Menu Image",
                   "rowId": `${_p}? image`
                 }, {
-                  "title": "[12] INTERNET",
+                  "title": "[💻] INTERNET",
                   "description": "Menampilkan Menu Internet",
                   "rowId": `${_p}? internet`
                 }, {
-                  "title": "[13] ISLAMIC",
+                  "title": "[🕌] ISLAMIC",
                   "description": "Menampilkan Menu Islam",
                   "rowId": `${_p}? islam`
                 }, {
-                  "title": "[14] KERANG",
+                  "title": "[🐚] KERANG",
                   "description": "Menampilkan Menu Kerang",
                   "rowId": `${_p}? kerang`
                 }, {
-                  "title": "[15] MAKER",
+                  "title": "[📚] MAKER",
                   "description": "Menampilkan Menu Maker",
                   "rowId": `${_p}? maker`
                 }, {
-                  "title": "[16] OWNER",
+                  "title": "[👤] OWNER",
                   "description": "Menampilkan Menu Owner",
                   "rowId": `${_p}? owner`
                 }, {
-                  "title": "[17] PENGUBAH SUARA",
+                  "title": "[🗣️] PENGUBAH SUARA",
                   "description": "Menampilkan Menu Voice Changer",
                   "rowId": `${_p}? suara`
                 }, {
-                  "title": "[18] PREMIUM",
+                  "title": "[💸] PREMIUM",
                   "description": "Menampilkan Menu Premium",
                   "rowId": `${_p}? premium`
                 }, {
-                  "title": "[19] QUOTES",
+                  "title": "[📋] QUOTES",
                   "description": "Menampilkan Menu Quotes",
                   "rowId": `${_p}? quotes`
                 }, {
-                  "title": "[20] RPG",
+                  "title": "[🗺️] RPG",
                   "description": "Menampilkan Menu Rpg",
                   "rowId": `${_p}? rpg`
                 }, {
-                  "title": "[21] STALKER",
+                  "title": "[👥] STALKER",
                   "description": "Menampilkan Menu Stalker",
                   "rowId": `${_p}? stalk`
                 }, {
-                  "title": "[22] SHORT LINK",
+                  "title": "[🔗] SHORT LINK",
                   "description": "Menampilkan Menu Short Link",
                   "rowId": `${_p}? shortlink`
                 }, {
-                  "title": "[23] TOOLS MENU",
+                  "title": "[🔧] TOOLS MENU",
                   "description": "Menampilkan Menu Tools",
                   "rowId": `${_p}? tools`
                 }, {
-                  "title": "[24] TEXT MAKER",
+                  "title": "[🖋️] TEXT MAKER",
                   "description": "Menampilkan Maker Text",
                   "rowId": `${_p}? text`
                 }, {
-                  "title": "[25] HENTAI",
+                  "title": "[🔞] HENTAI",
                   "description": "Menampilkan Menu Hentai",
                   "rowId": `${_p}? nsfw`
                 }, {
-                  "title": "[26] RANDOM",
+                  "title": "[🗂️] RANDOM",
                   "description": "Menampilkan Menu Random/Gabut",
                   "rowId": `${_p}? random`
                 }, {
-                  "title": "[27] TEXT PRO",
+                  "title": "[🖊️] TEXT PRO",
                   "description": "Menampilkan Text Pro Menu",
                   "rowId": `${_p}? textpro`
                 }, {
-                  "title": "[28] PHOTO OXY",
+                  "title": "[📷] PHOTO OXY",
                   "description": "Menampilkan Photo Oxy Menu",
                   "rowId": `${_p}? textpro`
                 }
